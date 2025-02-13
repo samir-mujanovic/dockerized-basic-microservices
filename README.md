@@ -3,7 +3,7 @@
 This setup runs three services:
 1. **PostgreSQL** (v10) for database storage.
 2. **Spring Boot App** (Java backend) on port 8080.
-3. **Node.js App** (Frontend) on port 8081.
+3. **Node.js App** on port 8081.
 
 ## Prerequisites
 - Docker and Docker Compose installed.
